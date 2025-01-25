@@ -1,12 +1,9 @@
-import java.util.Scanner;
-public class SwapNameV2 {
+
+public class SwapPratice {
 
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the string:");
-		String name1=sc.next();
-		System.out.println("Enter the string");
-		String name2=sc.next();
+		String name1="kk";
+		String name2="DD";
 System.out.println("Before Swapping-------");
 System.out.println("Name1="+name1);
 System.out.println("Name2="+name2);
@@ -17,5 +14,4 @@ System.out.println("After swapping........");
 System.out.println("Name1="+name1);
 System.out.println("Name2="+name2);
 	}
-
 }
