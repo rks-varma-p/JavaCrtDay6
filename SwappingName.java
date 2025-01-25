@@ -2,8 +2,8 @@
 public class SwappingName {
 
 	public static void main(String[] args) {
-		String N1="Ramu";
-		String N2="Abdul";
+		String N1="Taj";
+		String N2="";
 		System.out.println("Before swapping");
 		System.out.println("Name-1:"+N1);
 		System.out.println("Name-2:"+N2);
